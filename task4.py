@@ -16,3 +16,4 @@ def area():
 
 
 assert round(area(2),2) == 12.57
+x=6
